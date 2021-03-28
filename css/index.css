@@ -1,0 +1,226 @@
+h1{
+    display: inline;
+    padding: 9px;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 15px;
+
+}
+.block{
+     padding: 115px 172px;
+ }
+.stopik{
+      text-align: center;
+      margin-bottom:153px;
+}
+.content{
+    display: grid;
+}
+header .text p{
+    font-size:45pt;
+    color:#bbe8e6;
+    margin-bottom: 142px;
+}
+h1{
+    font-size: 1.12em;
+}
+h2{
+    text-align: center;
+    font-size: 38pt;
+}
+h3{
+    font-size: 20pt;
+}
+p{
+    font-size: 18pt;
+}
+button{
+    background: #505050;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+.title p{
+     text-align: center;
+ }
+.cudo{
+    background: mediumorchid;
+    color: white;
+}
+.cudo .nav h1{
+    height: 40px;
+}
+.cudo .text button{
+    background: coral;
+    color: white;
+}
+.servise .cardList{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding: 70px;
+    grid-gap:50px;
+}
+.servise{
+    background: teal;
+    color: white;
+}
+.meet{
+    background: whitesmoke;
+}
+.meet .button{
+    background: whitesmoke;
+    color: white;
+}
+.meet h2{
+    color: darkslategray ;
+}
+.meet h3{
+    color: darkslategray ;
+}
+.meet p{
+    color: darkslategray ;
+    font-size: 20pt;
+    margin-bottom: 32px;
+    background: #f5f5f5;
+}
+.meet li {
+    font-size: 15pt;
+    color: darkslategray ;
+}
+.meet em {
+    font-size: 15pt;
+    color: cornflowerblue;
+}
+.meet .cardlist{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding: 50px;
+}
+.meet .card{
+    grid-gap: 10px;
+    margin-bottom: 15px;
+}
+.skills{
+    background: white;
+    color:darkslategray;
+}
+.skills em{
+    border: 5px solid red;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    display: grid;
+    align-items: center;
+    margin: auto;
+    position: relative;
+}
+.artem{
+    position: absolute;
+    background: white;
+    height: 90px;
+    width: 90px;
+    top:-70px;
+    left: -40px;
+}
+.artem{
+    position: absolute;
+    background: white;
+    height: 90px;
+    width: 90px;
+    top:-70px;
+    left: -40px;
+}
+.artem{
+    position: absolute;
+    background: white;
+    height: 90px;
+    width: 90px;
+    top:-70px;
+    left: -40px;
+}
+.artem{
+    position: absolute;
+    background: white;
+    height: 90px;
+    width: 90px;
+    top:-70px;
+    left: -40px;
+}
+.skills .cardlist :nth-child(1) em{
+    border-color: #b3d4fc;
+}
+.skills .cardlist :nth-child(2) em{
+    border-color: mediumorchid;
+}
+.skills .cardlist :nth-child(3) em{
+    border-color: cadetblue;
+}
+.skills .cardlist :nth-child(4) em{
+    border-color: coral;
+}
+.skills .cardlist{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+    padding: 70px;
+    justify-items: center;
+    text-align: center;
+}
+.skills .card{
+    display: grid;
+    grid-gap: 30px;
+    margin-bottom: 20px;
+}
+.portfolio{
+    background: peachpuff;
+    color: white;
+    text-align: center;
+}
+.portfolio .cardlist{
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    justify-items: center;
+}
+.portfolio img{
+    width: 300px;
+    height: 200px;
+}
+
+.portfolio .title{
+    text-align: center;
+
+}
+.portfolio .botton{
+    font-size: 30px;
+    text-align: center;
+}
+.people{
+    background: hotpink;
+    color: white;
+}
+.people .cardlist {
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+    padding: 70px;
+}
+.people .card{
+    display: grid;
+    grid-gap: 30px;
+    margin-bottom: 20px;
+}
+.people h3{
+    font-size: 30px;
+}
+.people em{
+    font-size: 20px;
+}
+.people .card{
+
+}
+.fine{
+    background: cornflowerblue;
+    text-align: center;
+}
+
+
+
+
